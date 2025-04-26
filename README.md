@@ -39,6 +39,8 @@ A simple React-based application for creating, updating, viewing, and managing t
 
 
 ## Folder Structure:
+
+```plaintext
 ├── public/
 │   └── vite.svg
 ├── src/
@@ -62,3 +64,4 @@ A simple React-based application for creating, updating, viewing, and managing t
 ├── [package.json](http://_vscodecontentref_/12)
 ├── [README.md](http://_vscodecontentref_/13)
 └── [vite.config.js](http://_vscodecontentref_/14)
+```
