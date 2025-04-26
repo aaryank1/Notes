@@ -47,21 +47,21 @@ A simple React-based application for creating, updating, viewing, and managing t
 │   ├── assets/
 │   │   └── react.svg
 │   ├── components/
-│   │   ├── [Home.jsx](http://_vscodecontentref_/0)
-│   │   ├── [Navbar.jsx](http://_vscodecontentref_/1)
-│   │   ├── [Paste.jsx](http://_vscodecontentref_/2)
-│   │   └── [ViewPaste.jsx](http://_vscodecontentref_/3)
+│   │   ├── [Home.jsx]
+│   │   ├── [Navbar.jsx]
+│   │   ├── [Paste.jsx]
+│   │   └── [ViewPaste.jsx]
 │   ├── redux/
-│   │   └── [pasteSlice.js](http://_vscodecontentref_/4)
-│   ├── [App.css](http://_vscodecontentref_/5)
-│   ├── [App.jsx](http://_vscodecontentref_/6)
-│   ├── [index.css](http://_vscodecontentref_/7)
-│   ├── [main.jsx](http://_vscodecontentref_/8)
-│   └── [store.js](http://_vscodecontentref_/9)
+│   │   └── [pasteSlice.js]
+│   ├── [App.css]
+│   ├── [App.jsx]
+│   ├── [index.css]
+│   ├── [main.jsx]
+│   └── [store.js]
 ├── .gitignore
-├── [eslint.config.js](http://_vscodecontentref_/10)
-├── [index.html](http://_vscodecontentref_/11)
-├── [package.json](http://_vscodecontentref_/12)
-├── [README.md](http://_vscodecontentref_/13)
-└── [vite.config.js](http://_vscodecontentref_/14)
+├── [eslint.config.js]
+├── [index.html]
+├── [package.json]
+├── [README.md]
+└── [vite.config.js]
 ```
